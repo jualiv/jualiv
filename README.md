@@ -4,7 +4,7 @@
 
 *Java · Python · Kotlin · SQL*
 
-[![Email](https://img.shields.io/badge/Email-ivanjuarezalmero%40gmail.com-blue?logo=gmail)](mailto:ivanjuarezalmero@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ivanjuarezalmero%40gmail.com-blue?logo=gmail)](mailto:ijuarezalmero@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jualiv-181717?logo=github)](https://github.com/jualiv)
 
 </div>
