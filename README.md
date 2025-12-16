@@ -9,7 +9,7 @@
 
 </div>
 
-## 😊 Sobre mí
+## 👨‍🎓 Sobre mí
 
 Soy desarrollador en formación, apasionado por el backend, las bases de datos y crear aplicaciones útiles y funcionales para el día a día.
 Vengo del mundo de la **automatización industrial** y la **automoción eléctrica**, y ahora estoy poniendo toda esa experiencia técnica en el código.  
@@ -26,9 +26,9 @@ Vengo del mundo de la **automatización industrial** y la **automoción eléctri
 
 ## ⚽ Hobbies
 
-- **Fútbol** ⚽ *¡Aficionado total!*  
-- **Esquí** ⛷️ *Las pistas son mi oficina de invierno*  
-- **Escalada** 🧗‍♂️ *Conquistando paredes una a una*
+- **Fútbol** ⚽ 
+- **Esquí** ⛷️  
+- **Escalada** 🧗‍♂️ 
 
 ## 🔥 Proyecto destacado
 
