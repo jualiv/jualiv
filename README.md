@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Iván Juárez
+# 👋 ¡Hola! Soy Ivan
 
 *Java · Python · Kotlin · SQL*
 
@@ -9,21 +9,31 @@
 
 </div>
 
-## Sobre mí
+## 😊 Sobre mí
 
-Desarrollador en formación, enfocado en backend, bases de datos y aplicaciones multiplataforma.  
-Vengo de la automatización y la automoción eléctrica, y ahora estoy volcando esa experiencia en el desarrollo de software.
+Soy desarrollador en formación, apasionado por el backend, las bases de datos y crear aplicaciones útiles y funcionales para el día a día.
+Vengo del mundo de la **automatización industrial** y la **automoción eléctrica**, y ahora estoy poniendo toda esa experiencia técnica en el código.  
+¡Siempre con ganas de aprender cosas nuevas y colaborar!
 
-## Tecnologías
+## 🛠️ Stack Tecnológico
 
-- Lenguajes: **Java**, **Python**, **Kotlin**
-- Bases de datos: **MySQL**, **PostgreSQL**, **Firebase**
-- Otros: **Git**, **Android Studio**, **VS Code**
+**Backend & Bases de datos:** Java, Python, Kotlin, SQL, MySQL, PostgreSQL, Firebase, Odoo  
+**Frontend & Web:** HTML, CSS, XML, JSON  
+**IDE y desarrollo:** Android Studio, NetBeans, VSCode, Eclipse  
+**Control de versiones:** Git, GitHub  
+**Documentación y Testing:** JavaDoc, JUnit  
+**Diseño:** Figma, Miro
 
-## Proyecto destacado
+## ⚽ Hobbies
 
-- 🔐 **Pruebas de Cifrado en Java** (AES, 3DES, RSA)  
-  *Pequeño laboratorio para experimentar con algoritmos de cifrado y tiempos de ejecución.*
+- **Fútbol** ⚽ *¡Aficionado total!*  
+- **Esquí** ⛷️ *Las pistas son mi oficina de invierno*  
+- **Escalada** 🧗‍♂️ *Conquistando paredes una a una*
+
+## 🔥 Proyecto destacado
+
+**iCloth** – Proyecto de final de grado en **actual desarrollo**, desarrollado junto a un compañero.  
+iCloth es una app de gestión de vestuario inteligente que permite a los usuarios organizar y combinar prendas mediante sugerencias automáticas.  
 
 ---
-Si quieres ver más detalles, puedes consultar mi CV y mis repositorios.
+¡Encantado de conocerte! 👋 Mira mi CV para más detalles o charlemos de código. 🚀
