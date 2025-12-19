@@ -29,7 +29,7 @@ Desarrollador backend en formación, con foco en Java y bases de datos, orientad
 - Firebase (Authentication, Firestore)
 - Odoo (nociones de ERP)
 
-### Frontend (básico)
+### Frontend 
 - HTML, CSS
 
 ### Herramientas
