@@ -11,18 +11,33 @@
 
 ## 👨‍🎓 Sobre mí
 
-Soy desarrollador en formación, apasionado por el backend, las bases de datos y crear aplicaciones útiles y funcionales para el día a día.
-Vengo del mundo de la **automatización industrial** y la **automoción eléctrica**, y ahora estoy poniendo toda esa experiencia técnica en el código.  
+Desarrollador backend en formación, con foco en Java y bases de datos, orientado a crear aplicaciones robustas y mantenibles. Vengo del mundo de la automatización industrial y la automoción eléctrica, lo que me aporta una mentalidad técnica, estructurada y orientada a la resolución de problemas reales.
 ¡Siempre con ganas de aprender cosas nuevas y colaborar!
 
 ## 🛠️ Stack Tecnológico
 
-**Backend & Bases de datos:** Java, Python, Kotlin, SQL, MySQL, PostgreSQL, Firebase, Odoo  
-**Frontend & Web:** HTML, CSS, XML, JSON  
-**IDE y desarrollo:** Android Studio, NetBeans, VSCode, Eclipse  
-**Control de versiones:** Git, GitHub  
-**Documentación y Testing:** JavaDoc, JUnit  
-**Diseño:** Figma, Miro
+### Backend
+- Java (principal), Python, Kotlin
+- Lógica de negocio y APIs
+- Testing: JUnit
+
+### Bases de datos
+- SQL
+- MySQL, PostgreSQL
+
+### Integración y servicios
+- Firebase (Authentication, Firestore)
+- Odoo (nociones de ERP)
+
+### Frontend (básico)
+- HTML, CSS
+
+### Herramientas
+- Git, GitHub
+- Android Studio, VS Code
+- Documentación: JavaDoc, docstrings
+
+> Actualmente sigo formándome y creando nuevos proyectos para profundizar en backend con Java y bases de datos.
 
 ## ⚽ Hobbies
 
@@ -36,4 +51,4 @@ Vengo del mundo de la **automatización industrial** y la **automoción eléctri
 iCloth es una app de gestión de vestuario inteligente que permite a los usuarios organizar y combinar prendas mediante sugerencias automáticas.  
 
 ---
-¡Encantado de conocerte! 👋 Mira mi CV para más detalles o charlemos de código. 🚀
+¡Encantado de conocerte! 👋 Contactame para más detalles o charlemos de código. 🚀
