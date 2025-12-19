@@ -16,28 +16,11 @@ Desarrollador backend en formación, con foco en Java y bases de datos, orientad
 
 ## 🛠️ Stack Tecnológico
 
-### Backend
-- Java (principal), Python, Kotlin
-- Lógica de negocio y APIs
-- Testing: JUnit
-
-### Bases de datos
-- SQL
-- MySQL, PostgreSQL
-
-### Integración y servicios
-- Firebase (Authentication, Firestore)
-- Odoo (nociones de ERP)
-
-### Frontend 
-- HTML, CSS
-
-### Herramientas
-- Git, GitHub
-- Android Studio, VS Code
-- Documentación: JavaDoc, docstrings
-
-> Actualmente sigo formándome y creando nuevos proyectos para profundizar en backend con Java y bases de datos.
+**Backend:** Java (principal), Python, Kotlin · APIs · JUnit  
+**Bases de datos:** SQL · MySQL · PostgreSQL  
+**Servicios:** Firebase · Odoo (ERP básico)  
+**Frontend:** HTML · CSS  
+**Herramientas:** Git · GitHub · Android Studio · VS Code  
 
 ## ⚽ Hobbies
 
