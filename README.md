@@ -30,7 +30,7 @@ Desarrollador backend en formación, con foco en Java y bases de datos, orientad
 
 ## 🔥 Proyecto destacado
 
-**iCloth** – Proyecto de final de grado en **actual desarrollo**, desarrollado junto a un compañero.  
+**iCloth** – Proyecto de final de grado en **actual desarrollo**.
 iCloth es una app de gestión de armario inteligente que permite a los usuarios organizar y combinar prendas mediante sugerencias automáticas.  
 
 ---
