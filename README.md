@@ -26,7 +26,7 @@ Desarrollador backend en formación, con foco en Java y bases de datos, orientad
 
 - **Fútbol** ⚽ 
 - **Esquí** ⛷️  
-- **Escalada** 🧗‍♂️ 
+- **Padel** 🎾 
 
 ## 🔥 Proyecto destacado
 
