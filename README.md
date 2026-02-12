@@ -18,7 +18,7 @@ Desarrollador backend en formación, con foco en Java y bases de datos, orientad
 
 **Backend:** Java (principal), Python, Kotlin · APIs · JUnit  
 **Bases de datos:** SQL · MySQL · PostgreSQL  
-**Servicios:** Firebase · Odoo (ERP básico)  
+**Servicios:** Firebase · Odoo 
 **Frontend:** HTML · CSS  
 **Herramientas:** Git · GitHub · Android Studio · VS Code  
 
