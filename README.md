@@ -11,7 +11,7 @@
 
 ## 👨‍🎓 Sobre mí
 
-Desarrollador backend en formación, con foco en Java y bases de datos, orientado a crear aplicaciones robustas y mantenibles. Vengo del mundo de la automatización industrial y la automoción eléctrica, lo que me aporta una mentalidad técnica, estructurada y orientada a la resolución de problemas reales. Actualmente estoy ampliando mis conocimientos en PHP con el framework Laravel, enfocándome en el desarrollo backend.
+Desarrollador backend en formación, con foco en Java y bases de datos, orientado a crear aplicaciones robustas y mantenibles. Vengo del mundo de la automatización industrial y la automoción eléctrica, lo que me aporta una mentalidad técnica, estructurada y orientada a la resolución de problemas reales. 
 ¡Siempre con ganas de aprender cosas nuevas y colaborar!
 
 ## 🛠️ Stack Tecnológico
